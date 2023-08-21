@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @roykhasiani
-- 👀 I’m interested in Flutter, Blockchain, Ethical Hacking
-- 🌱 I’m currently learning all three
-- 💞️ I’m looking to collaborate on anything pertaining the aforementioned.
-- 📫 How to reach me - text/mail
+- 👋 Hi, I’m Roy.
+- 👀 Building stuff for my Ai startup: horAizone. 
+- 🌱 Learning as I go.
+- 💞️ Passionate about Augmented Human Intelligence
+- 📫 How to reach me - linkedin
 
 <!---
 roykhasiani/roykhasiani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
