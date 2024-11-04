@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roy.
-- 👀 Building stuff for my Ai startup: horAizone. 
+- 👀 Building stuff for my Ai startup: Upeo Labs [https://www.kolana.chat]. 
 - 🌱 Learning as I go.
 - 💞️ Passionate about Augmented Human Intelligence
 - 📫 How to reach me - linkedin
